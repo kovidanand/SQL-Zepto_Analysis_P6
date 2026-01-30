@@ -1,4 +1,7 @@
 # Zepto Inventory & Pricing Intelligence – SQL Analytics Project
+
+![image](https://github.com/kovidanand/SQL-Zepto_Analysis_P6/blob/main/Logo_of_Zepto.png)
+
 ### Overview
 
 This project analyzes Zepto’s product inventory and pricing data using SQL to support merchandising, supply chain, and revenue strategy teams.
